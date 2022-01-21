@@ -22,7 +22,7 @@ hyperframe==5.1.0
 idna==2.6
 idna-ssl==1.0.0
 ipykernel==4.6.1
-ipython==6.2.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.0.1
 itsdangerous==0.24
